@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @304mph, a.k.a. Happiness Expert
 - 👀 I’m interested in poeple and traveling. I love personal development and I do life/business coaching and hypnosis. I have done several silent meditation retreats, I have traveled to 43 countries and llived in 9.
-- 🌱 I’m currently learning HTML, CSS and Java Script and Spanish.
+- 🌱 I’m currently learning Python and Spanish.
 - 📫 How to reach me on Instagram @ expert.en.bonheur
 
 <!---
